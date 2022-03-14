@@ -1,0 +1,23 @@
+hash,exp,subj,list,device,age,gender,race,birth_order,English,Eng_variety,languages,relatives,occupation
+#,CAT,26225154fb4590,2,ear_buds,61-70,male,white,oldest_sib,native,from Oklahoma,None,rel_never,ed
+#,CAT,test6227de33a0fb4,test,good_headphones,41-45,female,asian american,,early,from California,n/a,rel_yearly,ed
+#,CAT,26228e20d3b275,2,speaker,41-45,female,asian american,,early,from California,n/a,rel_yearly,ed
+#,CAT,26228e1fb2d623,2,ear_buds,21-25,Female,White,oldest_sib,native,from California,Mandarin,rel_weekly,ed
+#,CAT,16228e21526e91,1,ear_buds,21-25,Male,hispanic,middle_sib,late,with general knowledge of the language,Spanish,rel_weekly,ed
+#,CAT,16228e258094e6,1,speaker,21-25,female ,Latina,youngest_sib,early,Typical for Bay Areans and Spanish Speakers,Spanish and Mam Mayan ,rel_yearly,legal
+#,CAT,26228e26e41e3d,2,speaker,21-25,Male,White,youngest_sib,late,from Canada,Spanish Catalan,rel_yearly,ed
+#,CAT,16228e2ce08082,1,speaker,21-25,Male,white,middle_sib,native,yes I speak standard English,none,rel_daily,ed
+#,CAT,1622a516d5edf1,1,ear_buds,18-20,Male,mixed-race,,native,from Southern California with a mixed-race heritage?,Japanese French(?),rel_yearly,life
+#,CAT,1622ac851c9a2b,1,good_headphones,21-25,female,hispanic,right,middle_sib,early,school and work,spanish,rel_monthly,IT
+#,CAT,1622baa6c055f3,1,ear_buds,18-20,Female,white,right,youngest_sib,native,From Northern California,ASL,rel_monthly,service
+#,CAT,3622ca6065dbe6,3,good_headphones,21-25,Male,White,right,youngest_sib,native,from my country.,None,rel_daily,sales
+#,CAT,4622ca7584dfc6,4,good_headphones,51-55,male,Caucasian,right,middle_sib,native,In the Midwest.,None,rel_daily,IT
+#,CAT,4622ca77d3bb11,4,good_headphones,46-50,male,white,right,oldest_sib,native,who were born in this country,n/a,rel_weekly,IT
+#,CAT,4622ca7e178487,4,good_headphones,41-45,male,black,right,youngest_sib,adult,Good English community ,no,rel_monthly,food
+#,CAT,3622cab55dbace,3,good_headphones,61-70,male,white,right,middle_sib,native,in the South,none,rel_weekly,product
+#,CAT,3622caa97dab70,3,good_headphones,21-25,female,white,right,youngest_sib,native,white people,none,rel_weekly,IT
+#,CAT,3622caba79f77e,3,good_headphones,71-80,Female,White,left,oldest_sib,native,from New Jersey,Spanish just a little,rel_yearly,ed
+#,CAT,4622cac790a39e,4,good_headphones,56-60,female,White,right,youngest_sib,native,for a White suburbanite.,none,rel_yearly,ed
+#,CAT,4622cb0fae20a1,4,ear_buds,31-35,Female,asian,right,middle_sib,native,from northern Virginia.,none,rel_daily,gig
+#,CAT,3622cb4ae41c14,3,good_headphones,41-45,MALE,WHITE,right,oldest_sib,early,who lived in my country,NONE,rel_never,constr
+#,CAT,4622cb5bf78627,4,good_headphones,41-45,Female,White,right,oldest_sib,native,Florida,English,rel_daily,business
